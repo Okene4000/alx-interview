@@ -1,1 +1,1 @@
-This is the project for rotat the matrix under ALX interview
+This is the project for rotate the matrix under ALX interview
