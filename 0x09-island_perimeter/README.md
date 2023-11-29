@@ -1,1 +1,1 @@
-This is the prject file of islan perimeter under ALX interview
+This is the project file of islan perimeter under ALX interview
